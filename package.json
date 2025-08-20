@@ -4,6 +4,11 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "author": "Kiretychowdary",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kiretychowdary/Utrack.git"
+  },
   "keywords": ["security", "expense-tracking", "finance", "react", "firebase", "pwa"],
   "scripts": {
     "dev": "vite",

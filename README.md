@@ -12,7 +12,7 @@
 
 *A modern web application that combines robust security features with intelligent expense tracking and progress monitoring.*
 
-[🚀 Live Demo](https://musical-naiad-0639f5.netlify.app/) | [📖 Documentation](#) | [🐛 Report Bug](https://github.com/vara-prasad-07/UTrack/issues) | [💡 Request Feature](https://github.com/https://github.com/vara-prasad-07/UTrack/issues)
+[🚀 Live Demo](https://musical-naiad-0639f5.netlify.app/) | [📖 Documentation](#) | [🐛 Report Bug](https://github.com/Kiretychowdary/Utrack/issues) | [💡 Request Feature](https://github.com/Kiretychowdary/Utrack/issues)
 
 </div>
 
@@ -79,8 +79,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/PATTASWAMY-VISHWAK-YASASHREE/UTrack.git
-   cd UTrack
+   git clone https://github.com/Kiretychowdary/Utrack.git
+   cd Utrack
    ```
 
 2. **Install dependencies**
